@@ -1,2 +1,2 @@
 # Relogio_Digital
-Um relógio no qual mostra a hora, minuto e o segundo atual
+Um relógio na qual é apresentado a hora, o minuto e o segundo atual.
